@@ -1,0 +1,15 @@
+outlook,temperature,humidity,windy,play
+rainy,hot,high,no,no
+rainy,hot,high,yes,no
+overcast,hot,high,no,yes
+sunny,mild,high,no,yes
+sunny,cool,normal,no,yes
+sunny,cool,normal,yes,no
+overcast,cool,normal,yes,yes
+rainy,mild,high,no,no
+rainy,cool,normal,no,yes
+sunny,mild,normal,no,yes
+rainy,mild,normal,yes,yes
+overcast,mild,high,yes,yes
+overcast,hot,normal,no,yes
+sunny,mild,high,yes,no
